@@ -1,0 +1,42 @@
+Question 1: The Arm & Fire System
+Components Used:
+
+• 1 LED
+
+• 1 Buzzer
+
+• 2 Push Buttons (A & B)
+
+Operation Timing:
+
+• Each button must be held for above 400ms to register a press.
+
+---
+
+Question 2: The Digital Vault
+Components Used:
+
+• 1 I2C OLED Display (SSD1306)
+
+• 2 Push Buttons (Up & OK)
+
+Operation Timing:
+
+• Each button must be held for above 400ms to register a press.
+
+---
+
+Question 3: The Factor Equilibrium
+Components Used:
+
+• 1 I2C OLED Display (SSD1306)
+
+• 2 LEDs (Red & Green)
+
+• 2 Buzzers
+
+• 2 Push Buttons (A & B)
+
+Operation Timing:
+
+• Each button must be held for above 400ms to register a press.
