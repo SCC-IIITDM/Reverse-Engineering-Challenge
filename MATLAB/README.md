@@ -12,6 +12,9 @@
 2. For q2 and q3 defenition of the functions are given instatiate them to your main file and run.
 
 
+
+## This is defenition of the function you must use to access the functions
+
 function y = q2(x)
 % Input:  x (row or column vector)
 % Output: y (same size as x)
