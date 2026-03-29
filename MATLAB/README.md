@@ -13,7 +13,7 @@
 
 
 
-## This is defenition of the function you must use to access the functions
+## This is definition of the function you must use to access the functions
 
 function y = q2(x)
 % Input:  x (row or column vector)
