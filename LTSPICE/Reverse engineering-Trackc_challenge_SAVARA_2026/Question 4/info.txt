@@ -1,0 +1,5 @@
+add
+.model D D
+.lib C:\Users\bj149\AppData\Local\LTspice\lib\cmp\standard.dio
+.lib ADI.lib
+.backanno

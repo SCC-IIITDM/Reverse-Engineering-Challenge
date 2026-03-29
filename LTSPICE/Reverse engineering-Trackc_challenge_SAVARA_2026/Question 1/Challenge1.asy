@@ -1,0 +1,19 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 191 16 128 16
+LINE Normal -128 -16 -80 -16
+LINE Normal -129 16 -80 16
+RECTANGLE Normal 128 62 -80 -48
+TEXT -43 1 Left 2 Black_box_1
+SYMATTR Prefix X
+SYMATTR Value Challenge_1
+SYMATTR ModelFile Blackbox1.lib
+PIN -128 -16 BOTTOM 8
+PINATTR PinName V1
+PINATTR SpiceOrder 1
+PIN -128 16 TOP 8
+PINATTR PinName V2
+PINATTR SpiceOrder 2
+PIN 192 16 BOTTOM 8
+PINATTR PinName Out
+PINATTR SpiceOrder 3

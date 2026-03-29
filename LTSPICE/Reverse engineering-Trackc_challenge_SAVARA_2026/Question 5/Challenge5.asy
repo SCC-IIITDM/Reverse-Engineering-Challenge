@@ -1,0 +1,39 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -160 -48 -96 -48
+LINE Normal -160 0 -96 0
+LINE Normal -160 16 -96 16
+LINE Normal -160 48 -96 48
+LINE Normal -160 64 -96 64
+LINE Normal -160 -32 -96 -33
+LINE Normal 224 0 160 0
+LINE Normal -160 0 -240 0
+LINE Normal -160 16 -240 16
+RECTANGLE Normal 160 81 -96 -64
+TEXT -55 -30 Left 2 Black_box_5
+TEXT -60 13 Left 1 Combinational circuit
+TEXT -59 31 Left 1 Apply 5v or 0 to the IP
+SYMATTR Prefix X
+SYMATTR Value Challenge5
+SYMATTR ModelFile blackbox_5.lib
+PIN 224 0 TOP 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 7
+PIN -160 -48 BOTTOM 8
+PINATTR PinName V1
+PINATTR SpiceOrder 1
+PIN -160 -32 TOP 8
+PINATTR PinName V2
+PINATTR SpiceOrder 2
+PIN -240 0 BOTTOM 8
+PINATTR PinName V3I
+PINATTR SpiceOrder 3
+PIN -240 16 TOP 8
+PINATTR PinName V4
+PINATTR SpiceOrder 4
+PIN -160 48 BOTTOM 8
+PINATTR PinName V5I
+PINATTR SpiceOrder 5
+PIN -160 64 TOP 8
+PINATTR PinName V6I
+PINATTR SpiceOrder 6
